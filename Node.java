@@ -1,4 +1,4 @@
-//Josh
+//Josh C
 public class Node 
 {
 	private Node nextNode;

@@ -1,4 +1,4 @@
-// Josh
+// Josh C
 public class LinkedList 
 {
 	private Node head;
